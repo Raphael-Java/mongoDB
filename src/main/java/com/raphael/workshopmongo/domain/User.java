@@ -1,6 +1,7 @@
 package com.raphael.workshopmongo.domain;
 
 import java.io.Serializable;
+import java.util.Date;
 import java.util.Objects;
 
 import org.springframework.data.annotation.Id;
